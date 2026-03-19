@@ -1,0 +1,669 @@
+{
+  "pft_dflag": 1,
+  "years": [2006,2007],
+  "topo_units": [
+    {
+      "NH1": 1,
+      "NV1": 1,
+      "NH2": 1,
+      "NV2": 1,
+      "NZ": 1,
+      "years": {
+        "2006": {
+          "pfts": [
+            {
+              "pft_type": "gr3s32",
+              "planting": {
+                "DDMMYYYY": "28029999",
+                "Planting_population": 3000,
+                "Planting_depth": 0.005
+              },
+              "mgmt": [
+                {
+                  "DDMMYYYY": "17050000",
+                  "iHarvType"  : 2,
+                  "jHarvType"  : 0,
+                  "CutHeight"  : 0.06,
+                  "FractionCut": 0.2,
+                  "FineFractionLeafHarvested_pft"   : 0.9,
+                  "FineFractionNonleafHarvested_pft": 0.3,
+                  "WoodyFractionHarvested_pft"      : 0.0,
+                  "StandeadFractionHarvested_pft"   : 0.1,
+                  "FineFractionLeafHarvested_col"   : 0.9,
+                  "FineFractionNonleafHarvested_col": 0.9,
+                  "WoodyFractionHarvested_col"      : 0.0,
+                  "StandeadFractionHarvested_col"   : 0.5
+                },
+                {
+                  "DDMMYYYY": "06060000",
+                  "iHarvType"  : 2,
+                  "jHarvType"  : 0,
+                  "CutHeight"  : 0.06,
+                  "FractionCut": 0.2,
+                  "FineFractionLeafHarvested_pft"   : 0.9,
+                  "FineFractionNonleafHarvested_pft": 0.3,
+                  "WoodyFractionHarvested_pft"      : 0.0,
+                  "StandeadFractionHarvested_pft"   : 0.1,
+                  "FineFractionLeafHarvested_col"   : 0.9,
+                  "FineFractionNonleafHarvested_col": 0.9,
+                  "WoodyFractionHarvested_col"      : 0.0,
+                  "StandeadFractionHarvested_col"   : 0.5
+                },
+                {
+                  "DDMMYYYY": "24100000",
+                  "iHarvType"  : 2,
+                  "jHarvType"  : 0,
+                  "CutHeight"  : 0.06,
+                  "FractionCut": 0.2,
+                  "FineFractionLeafHarvested_pft"   : 0.9,
+                  "FineFractionNonleafHarvested_pft": 0.3,
+                  "WoodyFractionHarvested_pft"      : 0.0,
+                  "StandeadFractionHarvested_pft"   : 0.1,
+                  "FineFractionLeafHarvested_col"   : 0.9,
+                  "FineFractionNonleafHarvested_col": 0.9,
+                  "WoodyFractionHarvested_col"      : 0.0,
+                  "StandeadFractionHarvested_col"   : 0.5
+                }
+              ]
+            }
+          ]
+        },
+        "2007": {
+          "pfts": [
+            {
+              "pft_type": "gr3s32",
+              "planting": {},            
+              "mgmt": [
+                {
+                  "DDMMYYYY": "23040000",
+                  "iHarvType"  : 2,
+                  "jHarvType"  : 0,
+                  "CutHeight"  : 0.06,
+                  "FractionCut": 0.2,
+                  "FineFractionLeafHarvested_pft"   : 0.9,
+                  "FineFractionNonleafHarvested_pft": 0.3,
+                  "WoodyFractionHarvested_pft"      : 0.0,
+                  "StandeadFractionHarvested_pft"   : 0.1,
+                  "FineFractionLeafHarvested_col"   : 0.9,
+                  "FineFractionNonleafHarvested_col": 0.9,
+                  "WoodyFractionHarvested_col"      : 0.0,
+                  "StandeadFractionHarvested_col"   : 0.5
+                },
+                {
+                  "DDMMYYYY": "05060000",
+                  "iHarvType"  : 2,
+                  "jHarvType"  : 0,
+                  "CutHeight"  : 0.06,
+                  "FractionCut": 0.2,
+                  "FineFractionLeafHarvested_pft"   : 0.9,
+                  "FineFractionNonleafHarvested_pft": 0.3,
+                  "WoodyFractionHarvested_pft"      : 0.0,
+                  "StandeadFractionHarvested_pft"   : 0.1,
+                  "FineFractionLeafHarvested_col"   : 0.9,
+                  "FineFractionNonleafHarvested_col": 0.9,
+                  "WoodyFractionHarvested_col"      : 0.0,
+                  "StandeadFractionHarvested_col"   : 0.5
+                },
+                {
+                  "DDMMYYYY": "17070000",
+                  "iHarvType"  : 2,
+                  "jHarvType"  : 0,
+                  "CutHeight"  : 0.06,
+                  "FractionCut": 0.2,
+                  "FineFractionLeafHarvested_pft"   : 0.9,
+                  "FineFractionNonleafHarvested_pft": 0.3,
+                  "WoodyFractionHarvested_pft"      : 0.0,
+                  "StandeadFractionHarvested_pft"   : 0.1,
+                  "FineFractionLeafHarvested_col"   : 0.9,
+                  "FineFractionNonleafHarvested_col": 0.9,
+                  "WoodyFractionHarvested_col"      : 0.0,
+                  "StandeadFractionHarvested_col"   : 0.5
+                },
+                {
+                  "DDMMYYYY": "10090000",
+                  "iHarvType"  : 2,
+                  "jHarvType"  : 0,
+                  "CutHeight"  : 0.06,
+                  "FractionCut": 0.2,
+                  "FineFractionLeafHarvested_pft"   : 0.9,
+                  "FineFractionNonleafHarvested_pft": 0.3,
+                  "WoodyFractionHarvested_pft"      : 0.0,
+                  "StandeadFractionHarvested_pft"   : 0.1,
+                  "FineFractionLeafHarvested_col"   : 0.9,
+                  "FineFractionNonleafHarvested_col": 0.9,
+                  "WoodyFractionHarvested_col"      : 0.0,
+                  "StandeadFractionHarvested_col"   : 0.5
+                },                  
+                {
+                  "DDMMYYYY": "12110000",
+                  "iHarvType"  : 2,
+                  "jHarvType"  : 0,
+                  "CutHeight"  : 0.06,
+                  "FractionCut": 0.2,
+                  "FineFractionLeafHarvested_pft"   : 0.9,
+                  "FineFractionNonleafHarvested_pft": 0.3,
+                  "WoodyFractionHarvested_pft"      : 0.0,
+                  "StandeadFractionHarvested_pft"   : 0.1,
+                  "FineFractionLeafHarvested_col"   : 0.9,
+                  "FineFractionNonleafHarvested_col": 0.9,
+                  "WoodyFractionHarvested_col"      : 0.0,
+                  "StandeadFractionHarvested_col"   : 0.5
+                }                  
+              ]
+            }
+          ]
+        },          
+        "2008": {
+          "pfts": [
+            {
+              "pft_type": "gr3s32",
+              "planting": {},                        
+              "mgmt": [
+                {
+                  "DDMMYYYY": "19050000",
+                  "iHarvType"  : 2,
+                  "jHarvType"  : 0,
+                  "CutHeight"  : 0.06,
+                  "FractionCut": 0.2,
+                  "FineFractionLeafHarvested_pft"   : 0.9,
+                  "FineFractionNonleafHarvested_pft": 0.3,
+                  "WoodyFractionHarvested_pft"      : 0.0,
+                  "StandeadFractionHarvested_pft"   : 0.1,
+                  "FineFractionLeafHarvested_col"   : 0.9,
+                  "FineFractionNonleafHarvested_col": 0.9,
+                  "WoodyFractionHarvested_col"      : 0.0,
+                  "StandeadFractionHarvested_col"   : 0.5
+                },
+                {
+                  "DDMMYYYY": "30060000",
+                  "iHarvType"  : 2,
+                  "jHarvType"  : 0,
+                  "CutHeight"  : 0.06,
+                  "FractionCut": 0.2,
+                  "FineFractionLeafHarvested_pft"   : 0.9,
+                  "FineFractionNonleafHarvested_pft": 0.3,
+                  "WoodyFractionHarvested_pft"      : 0.0,
+                  "StandeadFractionHarvested_pft"   : 0.1,
+                  "FineFractionLeafHarvested_col"   : 0.9,
+                  "FineFractionNonleafHarvested_col": 0.9,
+                  "WoodyFractionHarvested_col"      : 0.0,
+                  "StandeadFractionHarvested_col"   : 0.5
+                },
+                {
+                  "DDMMYYYY": "15090000",
+                  "iHarvType"  : 2,
+                  "jHarvType"  : 0,
+                  "CutHeight"  : 0.06,
+                  "FractionCut": 0.2,
+                  "FineFractionLeafHarvested_pft"   : 0.9,
+                  "FineFractionNonleafHarvested_pft": 0.3,
+                  "WoodyFractionHarvested_pft"      : 0.0,
+                  "StandeadFractionHarvested_pft"   : 0.1,
+                  "FineFractionLeafHarvested_col"   : 0.9,
+                  "FineFractionNonleafHarvested_col": 0.9,
+                  "WoodyFractionHarvested_col"      : 0.0,
+                  "StandeadFractionHarvested_col"   : 0.5
+                }
+              ]
+            }
+          ]
+        },     
+        "2009": {
+          "pfts": [
+            {
+              "pft_type": "gr3s32",
+              "planting": {},                                    
+              "mgmt": [
+                {
+                  "DDMMYYYY": "11050000",
+                  "iHarvType"  : 2,
+                  "jHarvType"  : 0,
+                  "CutHeight"  : 0.06,
+                  "FractionCut": 0.2,
+                  "FineFractionLeafHarvested_pft"   : 0.9,
+                  "FineFractionNonleafHarvested_pft": 0.3,
+                  "WoodyFractionHarvested_pft"      : 0.0,
+                  "StandeadFractionHarvested_pft"   : 0.1,
+                  "FineFractionLeafHarvested_col"   : 0.9,
+                  "FineFractionNonleafHarvested_col": 0.9,
+                  "WoodyFractionHarvested_col"      : 0.0,
+                  "StandeadFractionHarvested_col"   : 0.5
+                },
+                {
+                  "DDMMYYYY": "22060000",
+                  "iHarvType"  : 2,
+                  "jHarvType"  : 0,
+                  "CutHeight"  : 0.06,
+                  "FractionCut": 0.2,
+                  "FineFractionLeafHarvested_pft"   : 0.9,
+                  "FineFractionNonleafHarvested_pft": 0.3,
+                  "WoodyFractionHarvested_pft"      : 0.0,
+                  "StandeadFractionHarvested_pft"   : 0.1,
+                  "FineFractionLeafHarvested_col"   : 0.9,
+                  "FineFractionNonleafHarvested_col": 0.9,
+                  "WoodyFractionHarvested_col"      : 0.0,
+                  "StandeadFractionHarvested_col"   : 0.5
+                },
+                {
+                  "DDMMYYYY": "28090000",
+                  "iHarvType"  : 2,
+                  "jHarvType"  : 0,
+                  "CutHeight"  : 0.06,
+                  "FractionCut": 0.2,
+                  "FineFractionLeafHarvested_pft"   : 0.9,
+                  "FineFractionNonleafHarvested_pft": 0.3,
+                  "WoodyFractionHarvested_pft"      : 0.0,
+                  "StandeadFractionHarvested_pft"   : 0.1,
+                  "FineFractionLeafHarvested_col"   : 0.9,
+                  "FineFractionNonleafHarvested_col": 0.9,
+                  "WoodyFractionHarvested_col"      : 0.0,
+                  "StandeadFractionHarvested_col"   : 0.5
+                }
+              ]
+            }
+          ]
+        },        
+        "2010": {
+          "pfts": [
+            {
+              "pft_type": "gr3s32",
+              "planting": {},                                    
+              "mgmt": [
+                {
+                  "DDMMYYYY": "29040000",
+                  "iHarvType"  : 2,
+                  "jHarvType"  : 0,
+                  "CutHeight"  : 0.06,
+                  "FractionCut": 0.2,
+                  "FineFractionLeafHarvested_pft"   : 0.9,
+                  "FineFractionNonleafHarvested_pft": 0.3,
+                  "WoodyFractionHarvested_pft"      : 0.0,
+                  "StandeadFractionHarvested_pft"   : 0.1,
+                  "FineFractionLeafHarvested_col"   : 0.9,
+                  "FineFractionNonleafHarvested_col": 0.9,
+                  "WoodyFractionHarvested_col"      : 0.0,
+                  "StandeadFractionHarvested_col"   : 0.5
+                },
+                {
+                  "DDMMYYYY": "02060000",
+                  "iHarvType"  : 2,
+                  "jHarvType"  : 0,
+                  "CutHeight"  : 0.06,
+                  "FractionCut": 0.2,
+                  "FineFractionLeafHarvested_pft"   : 0.9,
+                  "FineFractionNonleafHarvested_pft": 0.3,
+                  "WoodyFractionHarvested_pft"      : 0.0,
+                  "StandeadFractionHarvested_pft"   : 0.1,
+                  "FineFractionLeafHarvested_col"   : 0.9,
+                  "FineFractionNonleafHarvested_col": 0.9,
+                  "WoodyFractionHarvested_col"      : 0.0,
+                  "StandeadFractionHarvested_col"   : 0.5
+                },
+                {
+                  "DDMMYYYY": "26070000",
+                  "iHarvType"  : 2,
+                  "jHarvType"  : 0,
+                  "CutHeight"  : 0.06,
+                  "FractionCut": 0.2,
+                  "FineFractionLeafHarvested_pft"   : 0.9,
+                  "FineFractionNonleafHarvested_pft": 0.3,
+                  "WoodyFractionHarvested_pft"      : 0.0,
+                  "StandeadFractionHarvested_pft"   : 0.1,
+                  "FineFractionLeafHarvested_col"   : 0.9,
+                  "FineFractionNonleafHarvested_col": 0.9,
+                  "WoodyFractionHarvested_col"      : 0.0,
+                  "StandeadFractionHarvested_col"   : 0.5
+                }
+              ]
+            }
+          ]
+        },          
+        "2011": {
+          "pfts": [
+            {
+              "pft_type": "gr3s32",
+              "planting": {},                                    
+              "mgmt": [
+                {
+                  "DDMMYYYY": "26040000",
+                  "iHarvType"  : 2,
+                  "jHarvType"  : 0,
+                  "CutHeight"  : 0.06,
+                  "FractionCut": 0.2,
+                  "FineFractionLeafHarvested_pft"   : 0.9,
+                  "FineFractionNonleafHarvested_pft": 0.3,
+                  "WoodyFractionHarvested_pft"      : 0.0,
+                  "StandeadFractionHarvested_pft"   : 0.1,
+                  "FineFractionLeafHarvested_col"   : 0.9,
+                  "FineFractionNonleafHarvested_col": 0.9,
+                  "WoodyFractionHarvested_col"      : 0.0,
+                  "StandeadFractionHarvested_col"   : 0.5
+                },
+                {
+                  "DDMMYYYY": "27070000",
+                  "iHarvType"  : 2,
+                  "jHarvType"  : 0,
+                  "CutHeight"  : 0.06,
+                  "FractionCut": 0.2,
+                  "FineFractionLeafHarvested_pft"   : 0.9,
+                  "FineFractionNonleafHarvested_pft": 0.3,
+                  "WoodyFractionHarvested_pft"      : 0.0,
+                  "StandeadFractionHarvested_pft"   : 0.1,
+                  "FineFractionLeafHarvested_col"   : 0.9,
+                  "FineFractionNonleafHarvested_col": 0.9,
+                  "WoodyFractionHarvested_col"      : 0.0,
+                  "StandeadFractionHarvested_col"   : 0.5
+                },
+                {
+                  "DDMMYYYY": "04100000",
+                  "iHarvType"  : 2,
+                  "jHarvType"  : 0,
+                  "CutHeight"  : 0.06,
+                  "FractionCut": 0.2,
+                  "FineFractionLeafHarvested_pft"   : 0.9,
+                  "FineFractionNonleafHarvested_pft": 0.3,
+                  "WoodyFractionHarvested_pft"      : 0.0,
+                  "StandeadFractionHarvested_pft"   : 0.1,
+                  "FineFractionLeafHarvested_col"   : 0.9,
+                  "FineFractionNonleafHarvested_col": 0.9,
+                  "WoodyFractionHarvested_col"      : 0.0,
+                  "StandeadFractionHarvested_col"   : 0.5
+                }
+              ]
+            }
+          ]
+        }, 
+        "2012": {
+          "pfts": [
+            {
+              "pft_type": "gr3s32",
+              "planting": {},                                    
+              "mgmt": [
+                {
+                  "DDMMYYYY": "14050000",
+                  "iHarvType"  : 2,
+                  "jHarvType"  : 0,
+                  "CutHeight"  : 0.06,
+                  "FractionCut": 0.2,
+                  "FineFractionLeafHarvested_pft"   : 0.9,
+                  "FineFractionNonleafHarvested_pft": 0.3,
+                  "WoodyFractionHarvested_pft"      : 0.0,
+                  "StandeadFractionHarvested_pft"   : 0.1,
+                  "FineFractionLeafHarvested_col"   : 0.9,
+                  "FineFractionNonleafHarvested_col": 0.9,
+                  "WoodyFractionHarvested_col"      : 0.0,
+                  "StandeadFractionHarvested_col"   : 0.5
+                },
+                {
+                  "DDMMYYYY": "25060000",
+                  "iHarvType"  : 2,
+                  "jHarvType"  : 0,
+                  "CutHeight"  : 0.06,
+                  "FractionCut": 0.2,
+                  "FineFractionLeafHarvested_pft"   : 0.9,
+                  "FineFractionNonleafHarvested_pft": 0.3,
+                  "WoodyFractionHarvested_pft"      : 0.0,
+                  "StandeadFractionHarvested_pft"   : 0.1,
+                  "FineFractionLeafHarvested_col"   : 0.9,
+                  "FineFractionNonleafHarvested_col": 0.9,
+                  "WoodyFractionHarvested_col"      : 0.0,
+                  "StandeadFractionHarvested_col"   : 0.5
+                },
+                {
+                  "DDMMYYYY": "07080000",
+                  "iHarvType"  : 2,
+                  "jHarvType"  : 0,
+                  "CutHeight"  : 0.06,
+                  "FractionCut": 0.2,
+                  "FineFractionLeafHarvested_pft"   : 0.9,
+                  "FineFractionNonleafHarvested_pft": 0.3,
+                  "WoodyFractionHarvested_pft"      : 0.0,
+                  "StandeadFractionHarvested_pft"   : 0.1,
+                  "FineFractionLeafHarvested_col"   : 0.9,
+                  "FineFractionNonleafHarvested_col": 0.9,
+                  "WoodyFractionHarvested_col"      : 0.0,
+                  "StandeadFractionHarvested_col"   : 0.5
+                }
+              ]
+            }
+          ]
+        },   
+        "2013": {
+          "pfts": [
+            {
+              "pft_type": "gr3s32",
+              "planting": {},                                    
+              "mgmt": [
+                {
+                  "DDMMYYYY": "22040000",
+                  "iHarvType"  : 2,
+                  "jHarvType"  : 0,
+                  "CutHeight"  : 0.06,
+                  "FractionCut": 0.2,
+                  "FineFractionLeafHarvested_pft"   : 0.9,
+                  "FineFractionNonleafHarvested_pft": 0.3,
+                  "WoodyFractionHarvested_pft"      : 0.0,
+                  "StandeadFractionHarvested_pft"   : 0.1,
+                  "FineFractionLeafHarvested_col"   : 0.9,
+                  "FineFractionNonleafHarvested_col": 0.9,
+                  "WoodyFractionHarvested_col"      : 0.0,
+                  "StandeadFractionHarvested_col"   : 0.5
+                },
+                {
+                  "DDMMYYYY": "27050000",
+                  "iHarvType"  : 2,
+                  "jHarvType"  : 0,
+                  "CutHeight"  : 0.06,
+                  "FractionCut": 0.2,
+                  "FineFractionLeafHarvested_pft"   : 0.9,
+                  "FineFractionNonleafHarvested_pft": 0.3,
+                  "WoodyFractionHarvested_pft"      : 0.0,
+                  "StandeadFractionHarvested_pft"   : 0.1,
+                  "FineFractionLeafHarvested_col"   : 0.9,
+                  "FineFractionNonleafHarvested_col": 0.9,
+                  "WoodyFractionHarvested_col"      : 0.0,
+                  "StandeadFractionHarvested_col"   : 0.5
+                },
+                {
+                  "DDMMYYYY": "22070000",
+                  "iHarvType"  : 2,
+                  "jHarvType"  : 0,
+                  "CutHeight"  : 0.06,
+                  "FractionCut": 0.2,
+                  "FineFractionLeafHarvested_pft"   : 0.9,
+                  "FineFractionNonleafHarvested_pft": 0.3,
+                  "WoodyFractionHarvested_pft"      : 0.0,
+                  "StandeadFractionHarvested_pft"   : 0.1,
+                  "FineFractionLeafHarvested_col"   : 0.9,
+                  "FineFractionNonleafHarvested_col": 0.9,
+                  "WoodyFractionHarvested_col"      : 0.0,
+                  "StandeadFractionHarvested_col"   : 0.5
+                },
+                {
+                  "DDMMYYYY": "07100000",
+                  "iHarvType"  : 2,
+                  "jHarvType"  : 0,
+                  "CutHeight"  : 0.06,
+                  "FractionCut": 0.2,
+                  "FineFractionLeafHarvested_pft"   : 0.9,
+                  "FineFractionNonleafHarvested_pft": 0.3,
+                  "WoodyFractionHarvested_pft"      : 0.0,
+                  "StandeadFractionHarvested_pft"   : 0.1,
+                  "FineFractionLeafHarvested_col"   : 0.9,
+                  "FineFractionNonleafHarvested_col": 0.9,
+                  "WoodyFractionHarvested_col"      : 0.0,
+                  "StandeadFractionHarvested_col"   : 0.5
+                }                  
+              ]
+            }
+          ]
+        },          
+        "2014": {
+          "pfts": [
+            {
+              "pft_type": "gr3s32",
+              "planting": {},                                    
+              "mgmt": [
+                {
+                  "DDMMYYYY": "05050000",
+                  "iHarvType"  : 2,
+                  "jHarvType"  : 0,
+                  "CutHeight"  : 0.06,
+                  "FractionCut": 0.2,
+                  "FineFractionLeafHarvested_pft"   : 0.9,
+                  "FineFractionNonleafHarvested_pft": 0.3,
+                  "WoodyFractionHarvested_pft"      : 0.0,
+                  "StandeadFractionHarvested_pft"   : 0.1,
+                  "FineFractionLeafHarvested_col"   : 0.9,
+                  "FineFractionNonleafHarvested_col": 0.9,
+                  "WoodyFractionHarvested_col"      : 0.0,
+                  "StandeadFractionHarvested_col"   : 0.5
+                },
+                {
+                  "DDMMYYYY": "25060000",
+                  "iHarvType"  : 2,
+                  "jHarvType"  : 0,
+                  "CutHeight"  : 0.06,
+                  "FractionCut": 0.2,
+                  "FineFractionLeafHarvested_pft"   : 0.9,
+                  "FineFractionNonleafHarvested_pft": 0.3,
+                  "WoodyFractionHarvested_pft"      : 0.0,
+                  "StandeadFractionHarvested_pft"   : 0.1,
+                  "FineFractionLeafHarvested_col"   : 0.9,
+                  "FineFractionNonleafHarvested_col": 0.9,
+                  "WoodyFractionHarvested_col"      : 0.0,
+                  "StandeadFractionHarvested_col"   : 0.5
+                },
+                {
+                  "DDMMYYYY": "29070000",
+                  "iHarvType"  : 2,
+                  "jHarvType"  : 0,
+                  "CutHeight"  : 0.06,
+                  "FractionCut": 0.2,
+                  "FineFractionLeafHarvested_pft"   : 0.9,
+                  "FineFractionNonleafHarvested_pft": 0.3,
+                  "WoodyFractionHarvested_pft"      : 0.0,
+                  "StandeadFractionHarvested_pft"   : 0.1,
+                  "FineFractionLeafHarvested_col"   : 0.9,
+                  "FineFractionNonleafHarvested_col": 0.9,
+                  "WoodyFractionHarvested_col"      : 0.0,
+                  "StandeadFractionHarvested_col"   : 0.5
+                },
+                {
+                  "DDMMYYYY": "30090000",
+                  "iHarvType"  : 2,
+                  "jHarvType"  : 0,
+                  "CutHeight"  : 0.06,
+                  "FractionCut": 0.2,
+                  "FineFractionLeafHarvested_pft"   : 0.9,
+                  "FineFractionNonleafHarvested_pft": 0.3,
+                  "WoodyFractionHarvested_pft"      : 0.0,
+                  "StandeadFractionHarvested_pft"   : 0.1,
+                  "FineFractionLeafHarvested_col"   : 0.9,
+                  "FineFractionNonleafHarvested_col": 0.9,
+                  "WoodyFractionHarvested_col"      : 0.0,
+                  "StandeadFractionHarvested_col"   : 0.5
+                }                  
+              ]
+            }
+          ]
+        },     
+        "2015": {
+          "pfts": [
+            {
+              "pft_type": "gr3s32",
+              "planting": {},                                    
+              "mgmt": [
+                {
+                  "DDMMYYYY": "06050000",
+                  "iHarvType"  : 2,
+                  "jHarvType"  : 0,
+                  "CutHeight"  : 0.06,
+                  "FractionCut": 0.2,
+                  "FineFractionLeafHarvested_pft"   : 0.9,
+                  "FineFractionNonleafHarvested_pft": 0.3,
+                  "WoodyFractionHarvested_pft"      : 0.0,
+                  "StandeadFractionHarvested_pft"   : 0.1,
+                  "FineFractionLeafHarvested_col"   : 0.9,
+                  "FineFractionNonleafHarvested_col": 0.9,
+                  "WoodyFractionHarvested_col"      : 0.0,
+                  "StandeadFractionHarvested_col"   : 0.5
+                },
+                {
+                  "DDMMYYYY": "25060000",
+                  "iHarvType"  : 2,
+                  "jHarvType"  : 0,
+                  "CutHeight"  : 0.06,
+                  "FractionCut": 0.2,
+                  "FineFractionLeafHarvested_pft"   : 0.9,
+                  "FineFractionNonleafHarvested_pft": 0.3,
+                  "WoodyFractionHarvested_pft"      : 0.0,
+                  "StandeadFractionHarvested_pft"   : 0.1,
+                  "FineFractionLeafHarvested_col"   : 0.9,
+                  "FineFractionNonleafHarvested_col": 0.9,
+                  "WoodyFractionHarvested_col"      : 0.0,
+                  "StandeadFractionHarvested_col"   : 0.5
+                },
+                {
+                  "DDMMYYYY": "29100000",
+                  "iHarvType"  : 2,
+                  "jHarvType"  : 0,
+                  "CutHeight"  : 0.06,
+                  "FractionCut": 0.2,
+                  "FineFractionLeafHarvested_pft"   : 0.9,
+                  "FineFractionNonleafHarvested_pft": 0.3,
+                  "WoodyFractionHarvested_pft"      : 0.0,
+                  "StandeadFractionHarvested_pft"   : 0.1,
+                  "FineFractionLeafHarvested_col"   : 0.9,
+                  "FineFractionNonleafHarvested_col": 0.9,
+                  "WoodyFractionHarvested_col"      : 0.0,
+                  "StandeadFractionHarvested_col"   : 0.5
+                }                  
+              ]
+            }
+          ]
+        }, 
+        "2016": {
+          "pfts": [
+            {
+              "pft_type": "gr3s32",
+              "planting": {},                                    
+              "mgmt": [
+                {
+                  "DDMMYYYY": "17050000",
+                  "iHarvType"  : 2,
+                  "jHarvType"  : 0,
+                  "CutHeight"  : 0.06,
+                  "FractionCut": 0.2,
+                  "FineFractionLeafHarvested_pft"   : 0.9,
+                  "FineFractionNonleafHarvested_pft": 0.3,
+                  "WoodyFractionHarvested_pft"      : 0.0,
+                  "StandeadFractionHarvested_pft"   : 0.1,
+                  "FineFractionLeafHarvested_col"   : 0.9,
+                  "FineFractionNonleafHarvested_col": 0.9,
+                  "WoodyFractionHarvested_col"      : 0.0,
+                  "StandeadFractionHarvested_col"   : 0.5
+                },
+                {
+                  "DDMMYYYY": "28060000",
+                  "iHarvType"  : 2,
+                  "jHarvType"  : 0,
+                  "CutHeight"  : 0.06,
+                  "FractionCut": 0.2,
+                  "FineFractionLeafHarvested_pft"   : 0.9,
+                  "FineFractionNonleafHarvested_pft": 0.3,
+                  "WoodyFractionHarvested_pft"      : 0.0,
+                  "StandeadFractionHarvested_pft"   : 0.1,
+                  "FineFractionLeafHarvested_col"   : 0.9,
+                  "FineFractionNonleafHarvested_col": 0.9,
+                  "WoodyFractionHarvested_col"      : 0.0,
+                  "StandeadFractionHarvested_col"   : 0.5
+                }
+              ]
+            }
+          ]
+        }          
+      }
+    }
+  ]
+}
